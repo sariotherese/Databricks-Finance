@@ -1,0 +1,11 @@
+product_key,product_code,product_name,product_category
+1,CHK_STD,Checking Standard,Checking
+2,CHK_PRM,Checking Premium,Checking
+3,SVG_STD,Savings Standard,Savings
+4,SVG_HY,Savings High Yield,Savings
+5,CRD_CL,Credit Card Classic,Cards
+6,CRD_PL,Credit Card Platinum,Cards
+7,LN_PER,Personal Loan,Lending
+8,LN_AUTO,Auto Loan,Lending
+9,MRT_FIX,Mortgage Fixed,Mortgage
+10,MRT_VAR,Mortgage Variable,Mortgage
